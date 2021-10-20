@@ -1309,8 +1309,9 @@ input, select, textarea {
 			.logo img{
 				border-radius: 100%;
 				display: inline-block;
-				width: 5.5rem;
-				height: 5.5rem;
+				width: 5.4rem;
+				height: 5.4rem;
+				position: relative;
 
 			}
 
